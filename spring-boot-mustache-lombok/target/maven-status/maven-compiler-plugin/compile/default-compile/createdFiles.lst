@@ -1,0 +1,6 @@
+com\szatmary\peter\mustache\demo\helper\DataHelper.class
+com\szatmary\peter\mustache\demo\SpringBootMustacheDemoApplication.class
+com\szatmary\peter\mustache\demo\obj\Address.class
+com\szatmary\peter\mustache\demo\obj\Student.class
+com\szatmary\peter\mustache\demo\conf\MustacheConfig.class
+com\szatmary\peter\mustache\demo\controller\HelloWorldController.class
